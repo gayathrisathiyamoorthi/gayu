@@ -15,7 +15,6 @@ public class DuplicateChar {
 			}
 			}
 		}
-		System.out.println(s.length());
 		int c=s.length()-1-count;
 		System.out.println(c);
 
